@@ -1,0 +1,5 @@
+name=input('Как вас зовут? ')
+print('Привет',name)
+print('Привет '+str(name)+'!')
+fam=input('Ваша фамилия? ')
+print('Жена - '+str(fam)+'а')
